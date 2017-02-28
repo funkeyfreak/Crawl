@@ -1,6 +1,6 @@
 {
   "name": "crawl",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Simple bot that crawls sources and generates data",
   "main": "server.js",
   "scripts": {
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/funkeyfreak/NodeJSBot.git"
+    "url": "git+https://github.com/funkeyfreak/Crawl.git"
   },
   "keywords": [
     "node",
     "nodejs",
     "web",
-    "crawler",
+    "sms",
     "bot"
   ],
   "author": "funkeyfreak, chrisban",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/funkeyfreak/NodeJSBot/issues"
+    "url": "https://github.com/funkeyfreak/Crawl/issues"
   },
-  "homepage": "https://github.com/funkeyfreak/NodeJSBot#readme"
+  "homepage": "https://github.com/funkeyfreak/Crawl#readme"
 }
