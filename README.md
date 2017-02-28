@@ -1,2 +1,2 @@
-# NodeJSBot
-A simple node js bot, for kicks and giggles mostly
+# Crawl
+A simple node js bot for easilying pinging other users via sms
